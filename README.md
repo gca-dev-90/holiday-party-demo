@@ -1,6 +1,6 @@
-# 🎄 Holiday Party Invitation — Wix Template Clone
+# 🎄 Holiday Party Invitation — 
 
-Pixel-perfect clone of the **Holiday Party Invitation Website Template | WIX**  
+ 
 Built with the 2026 stack: Next.js 15 · Tailwind CSS v4 · Framer Motion · TypeScript.
 
 ## Quick Start
